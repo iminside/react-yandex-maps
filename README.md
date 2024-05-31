@@ -1,4 +1,4 @@
-# React Yandex Maps
+# React Yandex Maps fixed defaultProps
 
 [![npm](https://img.shields.io/npm/v/@pbe/react-yandex-maps)](https://www.npmjs.com/package/@pbe/react-yandex-maps)
 [![npm bundle size](https://img.shields.io/bundlephobia/minzip/@pbe/react-yandex-maps)](https://bundlephobia.com/package/@pbe/react-yandex-maps)

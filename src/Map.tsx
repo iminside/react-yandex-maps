@@ -222,9 +222,4 @@ const YMapsMap = withErrorBoundary(
   )
 );
 
-YMapsMap.defaultProps = {
-  width: 320,
-  height: 240,
-};
-
 export default YMapsMap;

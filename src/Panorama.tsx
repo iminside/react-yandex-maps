@@ -209,9 +209,4 @@ const YMapsPanorama = withErrorBoundary(
   )
 );
 
-YMapsPanorama.defaultProps = {
-  width: 320,
-  height: 240,
-};
-
 export default YMapsPanorama;
