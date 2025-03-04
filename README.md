@@ -1,7 +1,7 @@
 # React Yandex Maps fixed defaultProps
 
-[![npm](https://img.shields.io/npm/v/@pbe/react-yandex-maps)](https://www.npmjs.com/package/@pbe/react-yandex-maps)
-[![npm bundle size](https://img.shields.io/bundlephobia/minzip/@pbe/react-yandex-maps)](https://bundlephobia.com/package/@pbe/react-yandex-maps)
+[![npm](https://img.shields.io/npm/v/@iminside/react-yandex-maps)](https://www.npmjs.com/package/@iminside/react-yandex-maps)
+[![npm bundle size](https://img.shields.io/bundlephobia/minzip/@iminside/react-yandex-maps)](https://bundlephobia.com/package/@iminside/react-yandex-maps)
 
 [Yandex Maps API][ymaps-api] bindings for React
 
@@ -19,13 +19,13 @@
 npm:
 
 ```
-npm install @pbe/react-yandex-maps
+npm install @iminside/react-yandex-maps
 ```
 
 yarn:
 
 ```
-yarn add @pbe/react-yandex-maps
+yarn add @iminside/react-yandex-maps
 ```
 
 ### Getting Started
@@ -34,7 +34,7 @@ Try running a simple example:
 
 ```jsx
 import React from 'react';
-import { YMaps, Map, Placemark } from '@pbe/react-yandex-maps';
+import { YMaps, Map, Placemark } from '@iminside/react-yandex-maps';
 
 export default function App() {
   const defaultState = {
