@@ -1,3 +1,5 @@
+> This fork adds support for react@19
+
 # React Yandex Maps fixed defaultProps
 
 [![npm](https://img.shields.io/npm/v/@iminside/react-yandex-maps)](https://www.npmjs.com/package/@iminside/react-yandex-maps)
